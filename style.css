@@ -1,0 +1,23 @@
+#banner {
+    width: 100%;
+    height: 400px;
+    background-image: url('https://picsum.photos/seed/picsum/1280/600');
+    background-position: center center;
+    background-size: cover;
+}
+
+#servicios {
+    width: 100%;
+    height: 400px;
+    background: #cccccc;
+}
+
+.text-success {
+    color: #3dd81e !important;
+}
+
+.img-custom {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
